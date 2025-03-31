@@ -20,12 +20,12 @@ The **Prefix Notation Calculator** is a simple application that evaluates arithm
 ### 1. Clone the Repository
 First, clone the repository to your local machine using the following command:
 
-`` `git clone https://github.com/HuyNg124724/PLCproject.git` ``
+``git clone https://github.com/HuyNg124724/PLCproject.git``
 
 ### 2. Install Dependencies
 Make sure you have Python installed on your system. Then, install the required dependencies using `pip`:
 
-`` `pip install -r requirements.txt` ``
+``pip install -r requirements.txt``
 
 This will install all the necessary libraries, including **PyQt6** and **Sly**.
 
@@ -34,7 +34,7 @@ This will install all the necessary libraries, including **PyQt6** and **Sly**.
 ### 1. Run the Application
 To run the Prefix Notation Calculator, simply run the following command:
 
-`` `python main.py` ``
+``python main.py``
 
 ### 2. Input Format
 - Enter the prefix notation expression in the input field (e.g., `+ 1 * 2 3`).
